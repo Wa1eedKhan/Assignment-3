@@ -10,7 +10,7 @@ const Hero = () => {
           Discover my projects and services that can help you elevate your web presence.
         </p>
         <Link href="#services">
-          <button className="px-8 py-3 bg-blue-300 text-black text-lg rounded-lg shadow-md hover:bg-blue-200 transition duration-300 transform hover:scale-105">
+   <button className="px-8 py-3 bg-blue-300 text-black text-lg rounded-lg shadow-md hover:bg-blue-200 transition duration-300 transform hover:scale-105">
             Get Started
           </button>
         </Link>
